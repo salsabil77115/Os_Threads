@@ -1,0 +1,12 @@
+(c1)(mobile) arrived 
+(c2)(ma) arrived 
+Connection :c1 Occupied 
+Connection :c2 Occupied 
+Connection :c1 Performs online activity 
+c3(laptop) arrived and waiting 
+Connection :c2 Performs online activity 
+Connection :c1  logged out 
+Connection :c3 Occupied 
+Connection :c3 Performs online activity 
+Connection :c2  logged out 
+Connection :c3  logged out 
